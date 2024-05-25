@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koru09
+- 👋 Hi, I’m @mrHock89
 - 👀 I’m interested in "coding, travelling, listning music, chess"
 - 🌱 I’m currently learning "Web Development"
 - 💞️ I’m looking to collaborate on "Coding"
